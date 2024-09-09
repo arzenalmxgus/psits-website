@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Welcome to the NDKC PSITS Website!",
+    "paragraph": "Philippine Society of Information Technology Students - Notre Dame of Kidapawan College Chapter"
+  },
+  "About": {
+    "paragraph": "The Notre Dame of Kidapawan College PSITS (Philippine Society of Information Technology Students) is a student-run organization committed to empowering future IT professionals. Established to foster collaboration, leadership, and growth among IT students, the organization provides a platform for technical learning, innovation, and peer support. Through various activities, workshops, and projects, PSITS aims to enhance the skills and knowledge of its members, preparing them for the dynamic world of Information Technology.",
+    "Why": [
+      "Learn from industry professionals and experienced faculty.",
+      "Gain diverse IT skills from programming to leadership.",
+      "Access valuable networking opportunities and career paths.",
+      "Collaborate and share ideas in an inclusive environment."
+    ],
+    "Why2": [
+      "Benefit from resume workshops, interview prep, and internships.",
+      "Challenge your skills and gain real-world experience.",
+      "Develop management and organizational skills through active roles.",
+      "Utilize software tools and learning materials for growth."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Technical Workshops and Seminars",
+      "text": "Gain hands-on experience and learn from industry experts through various workshops and seminars on the latest technologies and IT practices."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Career Counseling",
+      "text": "Receive personalized guidance on career planning, resume building, and interview preparation to help you advance in the IT field."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Project Collaboration",
+      "text": "Collaborate on innovative IT projects and competitions, enhancing your practical skills and working on real-world challenges."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Technical Support",
+      "text": "Access support for technical issues related to academic projects or personal IT needs, ensuring you have the resources to overcome challenges."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Networking Events",
+      "text": "Participate in events designed to connect you with industry professionals, alumni, and peers, facilitating valuable networking opportunities."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Leadership and Management Training",
+      "text": "Develop essential leadership and organizational skills by taking on active roles within the club and leading various initiatives and projects."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"PSITS has been pivotal in my IT education. The workshops have provided invaluable hands-on experience that’s been crucial for my career.\"",
+      "name": "George Pacao"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"The supportive community in PSITS has been amazing. The learning and networking opportunities here are unmatched.\"",
+      "name": "George Bugwak"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"PSITS bridged the gap between academic learning and real-world application. The connections I made have greatly influenced my career path.\"",
+      "name": "John Kupal"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Joining PSITS has been a game-changer. The skills and confidence I’ve gained here are helping me excel in my studies and beyond.\"",
+      "name": "Kap Guo"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"PSITS exemplifies student-driven excellence. The organization fosters a culture of innovation and leadership that is truly inspiring.\"",
+      "name": "Alias Dodong"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"As a freshman, PSITS has been an incredible introduction to the IT field. The resources and mentorship have been incredibly helpful.\"",
+      "name": "Clefford M Canoy"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Fatima Zarza",
+      "job": "College Dean"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Emmanuel Wence Fernandez",
+      "job": "Club President"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Robert Bedaño",
+      "job": "Club Moderator"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Georgina Pacao",
+      "job": "Kingpin"
+    }
+  ],
+  "Contact": {
+    "address": "Datu Ingkal Street, Kidapawan, Philippines, 9400",
+    "phone": "0923 955 5278",
+    "email": "research@ndkc.edu.ph",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Inclusive Community",
+      "text": "Engage and collaborate in a supportive, inclusive environment."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Career Networking",
+      "text": "Amplify your career with valuable networking opportunities."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Career Support",
+      "text": "Enhance your career with tailored support and internships."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Transformative Workshops",
+      "text": "Transform your skills with workshops led by industry experts."
+    }
+  ]
+}
